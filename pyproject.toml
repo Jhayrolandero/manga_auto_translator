@@ -1,0 +1,10 @@
+[project]
+name = "automatic-translator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "mss>=10.2.0",
+    "paddleocr>=3.5.0",
+]
